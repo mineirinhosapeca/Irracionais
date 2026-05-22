@@ -44,7 +44,7 @@ const RECEITAS_INICIAIS = [
  "6. Modele bolinhas e coloque na assadeira.",
  "7. Asse em forno médio até dourar."
     ]}, 
-    videoUrl: 'https://raw.githubusercontent.com/pedrojoinha2/3_D_ds_proverbios/main/videos/chocolate.mp4?raw=true'
+    videoUrl: 'https://raw.githubusercontent.com/mineirinhosapeca/Irracionais/main/videos/queijo.mp4?raw=true'
   },
   { 
     id: "2", 
@@ -84,7 +84,7 @@ const RECEITAS_INICIAIS = [
  "5. Misture até formar uma massa homogênea.",
  "6. Coloque na forma untada e leve ao forno médio por cerca de 30 minutos."
     ]}, 
-    videoUrl: 'https://raw.githubusercontent.com/pedrojoinha2/3_D_ds_proverbios/main/videos/fuba.mp4?raw=true' 
+    videoUrl: 'https://raw.githubusercontent.com/mineirinhosapeca/Irracionais/main/videos/brownie.mp4?raw=true'
   },
   { 
     id: "3", 
@@ -131,7 +131,7 @@ const RECEITAS_INICIAIS = [
  "2. Mexa até engrossar.",
  "3. Despeje sobre o bolo e finalize com granulado."
 ]}, 
-    videoUrl: 'https://raw.githubusercontent.com/pedrojoinha2/3_D_ds_proverbios/main/videos/cenoura.mp4?raw=true' 
+    videoUrl: 'https://raw.githubusercontent.com/mineirinhosapeca/Irracionais/main/videos/cenoura.mp4?raw=true'
   },
   { 
     id: "4", 
@@ -171,7 +171,7 @@ const RECEITAS_INICIAIS = [
  "5. Coloque sobre a massa já fria.",
  "6. Leve à geladeira até firmar."
  ]}, 
-    videoUrl: 'https://raw.githubusercontent.com/pedrojoinha2/3_D_ds_proverbios/main/videos/laranja.mp4?raw=true' 
+    videoUrl: 'https://raw.githubusercontent.com/mineirinhosapeca/Irracionais/main/videos/limao.mp4?raw=true' 
   },
 ];
 
